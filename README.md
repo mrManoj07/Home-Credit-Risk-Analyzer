@@ -1,6 +1,6 @@
 # 🏦 Home Credit Default Risk Analyzer
 
-A Machine Learning project that predicts the probability of customer loan default using financial and personal information. The project uses Random Forest and Logistic Regression models and provides an interactive web application built with Streamlit.
+A Machine Learning project that predicts the probability of customer loan default using financial and personal information. This project uses Random Forest and Logistic Regression models and provides an interactive web application built with Streamlit.
 
 ## 🚀 Features
 
@@ -109,6 +109,10 @@ The main objective is to estimate the probability of loan default using Machine 
 
 ## 👨‍💻 Author
 
-**Manoj**
+**mrManoj07**
 
-Machine Learning | Python | Data Science
+GitHub: [@mrManoj07](https://github.com/mrManoj07)
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository!
